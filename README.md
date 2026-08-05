@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Mahmoud 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+listen+in+Arabic;Making+them+speak+it+too;Shipping+AI+beyond+the+notebook" alt="Typing animation: Mahmoud builds Arabic speech AI and ships it to production" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=Teaching+machines+to+listen+in+Arabic;Building+AI+agents+that+use+tools;Making+RAG+less+ragged;Shipping+AI+beyond+the+notebook" alt="Typing animation: Mahmoud builds Arabic speech AI, agentic systems, and production RAG" />
 </p>
 
 <p align="center">
@@ -12,25 +12,28 @@
 </p>
 
 <p align="center">
-  Data Scientist with <strong>6+ years</strong> turning speech, Arabic NLP, and LLM research<br />
-  into systems people can actually use.
+  Data Scientist with <strong>6+ years</strong> building Arabic AI, speech, and agentic LLM systems<br />
+  from research prototypes to production APIs.
 </p>
 
 ## Things I build
 
+- 🕸️ **Agentic AI & RAG** — LangGraph workflows, hybrid retrieval, embedding APIs, voice agents, and AI automation.
 - 🗣️ **[Arabic Speaker Verification](https://github.com/Ryuodan/arabic-sv-benchmark)** — benchmarking six model families to find out *who's speaking*, in Arabic.
 - 🎙️ **[Arabic TTS Studio](https://github.com/Ryuodan/webapp_tts_arabic)** — fine-tuned Saudi speech, voice cloning, and LLM-assisted script prep.
-- 🧠 **[Arabic NLP Exploration](https://github.com/Ryuodan/Arabic-NLP-Exploration)** — sentiment analysis for a language that deserves better than English-only defaults.
 - 🚀 **[ML Deployment](https://github.com/Ryuodan/deploying-ml-udacity)** — moving models out of notebooks and into tested FastAPI services.
 
-## Toolbox
+## Current stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)
 ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-05122A?style=flat&logo=huggingface)
-![SpeechBrain](https://img.shields.io/badge/-SpeechBrain-05122A?style=flat)
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat&logo=langchain)
+![LangGraph](https://img.shields.io/badge/-LangGraph-05122A?style=flat)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)
-![Agentic AI](https://img.shields.io/badge/-Agentic%20AI-05122A?style=flat)
+![Pydantic](https://img.shields.io/badge/-Pydantic-05122A?style=flat&logo=pydantic)
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat)
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
 
 ## My contributions have a natural predator 🐍
 
