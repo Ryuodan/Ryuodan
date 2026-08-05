@@ -16,12 +16,9 @@
   from research prototypes to production APIs.
 </p>
 
-## Things I build
-
-- 🕸️ **Agentic AI & RAG** — LangGraph workflows, hybrid retrieval, embedding APIs, voice agents, and AI automation.
-- 🗣️ **[Arabic Speaker Verification](https://github.com/Ryuodan/arabic-sv-benchmark)** — benchmarking six model families to find out *who's speaking*, in Arabic.
-- 🎙️ **[Arabic TTS Studio](https://github.com/Ryuodan/webapp_tts_arabic)** — fine-tuned Saudi speech, voice cloning, and LLM-assisted script prep.
-- 🚀 **[ML Deployment](https://github.com/Ryuodan/deploying-ml-udacity)** — moving models out of notebooks and into tested FastAPI services.
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20since-August%202016-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="On GitHub since August 2016" />
+</p>
 
 ## Current stack
 
@@ -34,6 +31,16 @@
 ![Pydantic](https://img.shields.io/badge/-Pydantic-05122A?style=flat&logo=pydantic)
 ![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+
+## GitHub pulse
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/Ryuodan?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCairo" alt="Live public GitHub activity metrics for Mahmoud Ayman" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuodan&theme=tokyo-night&hide_border=true&area=true" alt="Mahmoud Ayman's GitHub contribution activity graph" />
+</p>
 
 ## My contributions have a natural predator 🐍
 
