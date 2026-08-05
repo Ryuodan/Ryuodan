@@ -35,12 +35,20 @@
 ## GitHub pulse
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/Ryuodan?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories%2Cmetadata&config.timezone=Africa%2FCairo" alt="Live public GitHub activity metrics for Mahmoud Ayman" />
+  <img src="https://img.shields.io/badge/Private%20repositories-47-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="47 private repositories" />
+  <img src="https://img.shields.io/badge/Active%20private%20projects-18%20in%2012%20months-00BFA6?style=for-the-badge" alt="18 private projects active during the last 12 months" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Private%20contributions-94%20in%2012%20months-6C63FF?style=for-the-badge" alt="94 private GitHub contributions during the last 12 months" />
+  <img src="https://img.shields.io/badge/Private%20lines%20changed-36K%2B%20in%2012%20months-00BFA6?style=for-the-badge" alt="At least 36,100 lines changed on owned private default branches during the last 12 months" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuodan&theme=tokyo-night&hide_border=true&area=true" alt="Mahmoud Ayman's GitHub contribution activity graph" />
 </p>
+
+<p align="center"><sub>Authenticated aggregate snapshot · August 2026 · private names and details stay private</sub></p>
 
 ## My contributions have a natural predator 🐍
 
